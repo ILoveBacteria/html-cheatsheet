@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+header {
+    margin-bottom: 2rem;
+}
+
 table, th, td {
     border-collapse: collapse;
 }
