@@ -19,3 +19,5 @@ Available in Github Pages. Link in About box.
 - Table elements
 - Media elements
 - Semantic elements
+- Form elements
+- Form attributes
