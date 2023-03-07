@@ -8,6 +8,8 @@
 [![Last commit](https://img.shields.io/github/last-commit/ILoveBacteria/html-cheatsheet)](https://github.com/ILoveBacteria/html-cheatsheet/commits/master)
 
 ## Description
+⚠ The content of this repository moved to [here](https://github.com/ILoveBacteria/cheatsheet/tree/master)
+
 This is a collection of HTML cheat sheets.
 
 Available in Github Pages. Link in About box.
